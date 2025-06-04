@@ -2,15 +2,6 @@
 "Analyze how macroeconomic indicators affect stock market indices using statistical modeling and machine learning."
 # 📈 Macroeconomic Indicators & Stock Market Impact
 
-pip install pandas yfinance fredapi pandas_datareader
-to access FRED data login into the account and get API key
-
-
-
-
-
-
-
 This project analyzes the relationship between key macroeconomic indicators (like inflation, unemployment, and interest rates) and stock market performance using statistical and machine learning techniques.
 
 ## 🚀 Objectives
